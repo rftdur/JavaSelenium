@@ -1,3 +1,5 @@
+//Before ve After Senaryo Kullanildi.
+
 package elementsExample;
 
 import org.junit.AfterClass;
