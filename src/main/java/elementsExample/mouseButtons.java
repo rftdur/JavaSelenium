@@ -1,4 +1,4 @@
-package mouseButtons;
+package elementsExample;
 
 import org.junit.AfterClass;
 import org.junit.Assert;
@@ -10,7 +10,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.interactions.Actions;
 
-import javax.swing.*;
 import java.time.Duration;
 
 public class mouseButtons {

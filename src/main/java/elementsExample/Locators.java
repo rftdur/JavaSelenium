@@ -1,4 +1,4 @@
-package getMethods;
+package elementsExample;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

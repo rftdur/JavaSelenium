@@ -1,6 +1,5 @@
-package navigateMethods;
+package elementsExample;
 
-import org.apache.hadoop.yarn.webapp.hamlet2.Hamlet;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 

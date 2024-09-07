@@ -1,6 +1,6 @@
 //Before ve After Senaryo Kullanildi.
 
-package WebTables;
+package elementsExample;
 
 import org.junit.AfterClass;
 import org.junit.Assert;

@@ -1,3 +1,5 @@
+package elementsExample;
+
 import org.junit.Assert;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;

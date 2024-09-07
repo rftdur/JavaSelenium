@@ -1,6 +1,5 @@
-package manageMethods;
+package elementsExample;
 
-import org.apache.avro.util.internal.ThreadLocalWithInitial;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 

@@ -1,4 +1,4 @@
-package RadioButtons;
+package elementsExample;
 
 import org.junit.Assert;
 import org.openqa.selenium.*;
